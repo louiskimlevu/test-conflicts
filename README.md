@@ -4,3 +4,4 @@ test-conflicts
 abcd
 1234
 this is not a message
+coca
